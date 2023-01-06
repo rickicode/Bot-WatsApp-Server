@@ -6,6 +6,7 @@
 /.history
 /.wwebjs_auth
 /vendor
+/priv
 .env
 .env.backup
 .phpunit.result.cache
@@ -13,4 +14,3 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
-/feature/chat_ai2.js
